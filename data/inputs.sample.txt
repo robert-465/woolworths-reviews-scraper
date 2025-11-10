@@ -1,0 +1,3 @@
+# Sample Woolworths AU product URLs (update as needed)
+https://www.woolworths.com.au/shop/productdetails/145946
+https://www.woolworths.com.au/shop/productdetails/192186
