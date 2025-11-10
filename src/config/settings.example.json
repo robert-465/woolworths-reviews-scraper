@@ -1,0 +1,9 @@
+{
+  "region": "au",
+  "input_file": "data/inputs.sample.txt",
+  "output_file": "data/sample.json",
+  "concurrency": 4,
+  "timeout": 15.0,
+  "request_delay": 0.5,
+  "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0 Safari/537.36"
+}
